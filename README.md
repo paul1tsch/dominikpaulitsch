@@ -7,7 +7,6 @@
 #### Connect with me:
 [<img align="left" alt="paudom19 | Twitter" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />](https://twitter.com/paudom19 "Dominik's Twitter")
 [<img align="left" alt="paudom19 | Github" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />](https://github.com/paudom19 "Dominik's Github")
-[<img align="left" alt="paudom19 | Instagram" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />](https://instagram.com/paudom19 "Dominik's Instagram")
 <br/>
 <br/>
 #### Tools and Languages
