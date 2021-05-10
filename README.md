@@ -26,7 +26,7 @@
 <br/>
 
 #### Favorite People:
-[<img align="left" alt="EINSTEIN" height="26px" src="http://www.pngall.com/wp-content/uploads/5/Albert-Einstein-PNG-Image-HD.png />](https://de.wikipedia.org/wiki/Albert_Einstein "Albert EINSTEIN")
+[<img align="left" alt="EINSTEIN" height="26px" src="http://www.pngall.com/wp-content/uploads/5/Albert-Einstein-PNG-Image-HD.png" />](https://de.wikipedia.org/wiki/Albert_Einstein "Albert EINSTEIN")
 [<img align="left" alt="HAWKING" height="26px" src="https://www.pngkey.com/png/full/215-2155826_stephen-hawking-portrait-stephen-hawking.png" />](https://de.wikipedia.org/wiki/Stephen_Hawking "Stephen William HAWKING")
 [<img align="left" alt="MAYER" height="26px" src="https://web.archive.org/web/20191225094822im_/http://www.htl-kaindorf.at/images/com_droppics/47/thumbnails/531f196aa7fd4.jpg" />](http://www.htl-kaindorf.at/ "Reinhold MAYER")
 <br/>
