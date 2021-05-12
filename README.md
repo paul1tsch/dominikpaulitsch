@@ -21,7 +21,7 @@
 [<img align="left" alt="paudom19 | Github" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />](https://github.com/paudom19 "Dominik's Github")
 [<img align="left" alt="HTML" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />](https://de.wikipedia.org/wiki/Hypertext_Markup_Language "HTML")
 [<img align="left" alt="CSS" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />](https://de.wikipedia.org/wiki/Cascading_Style_Sheets#:~:text=Cascading%20Style%20Sheets%20(englische%20Aussprache,Kernsprachen%20des%20World%20Wide%20Webs. "CSS")
-[<img align="left" alt="CSS" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />](https://de.wikipedia.org/wiki/Linux "Linux")
+[<img align="left" alt="Linux" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />](https://de.wikipedia.org/wiki/Linux "Linux")
 <br/>
 <br/>
 
