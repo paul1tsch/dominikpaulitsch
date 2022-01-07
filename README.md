@@ -2,7 +2,7 @@
 
 > Ambitious, motivated designer & programmer
 
-Hi👋, I am Web Developer, Software Developer and UI/UX Designer who loves to design and program! I currently attend the HTBLA Kaindorf.
+Hi👋, I am a Web Developer, Software Developer and UI/UX Designer who loves to design and program! I currently attend the HTBLA Kaindorf.
 
 ### 🌱 What I want to learn 2022...
 
