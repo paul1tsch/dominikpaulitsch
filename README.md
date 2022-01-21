@@ -1,6 +1,6 @@
 ### Dominik PAULITSCH
 
-> Ambitious, motivated designer & programmer
+> CEO at Nvcked.
 
 Hi👋, I am a Web Developer, Software Developer and UI/UX Designer who loves to design and program! I currently attend the HTBLA Kaindorf.
 
