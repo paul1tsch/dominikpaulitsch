@@ -1,6 +1,6 @@
 ### Dominik PAULITSCH
 
-> CEO at Nvcked.
+> CEO at Dealous.
 
 Hi👋, I am a Web Developer, Software Developer and UI/UX Designer who loves to design and program! I currently attend the HTBLA Kaindorf.
 
