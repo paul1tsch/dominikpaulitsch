@@ -1,12 +1,13 @@
 ### Dominik PAULITSCH
 
-> CEO at Dealous Projects
+> Creator of Dealous Projects & ZENPAU
 
 Hi👋, I am a Web Developer, Software Developer and UI/UX Designer who loves to design and program! I currently attend the HTBLA Kaindorf.
 
 ### 🌱 What I want to learn in 2022...
 
 - React
+- R
 - NextJS
 - ChakraUI
 - GraphQL
