@@ -6,12 +6,14 @@ Hi👋, I am a Web Developer, Software Developer and UI/UX Designer who loves to
 
 ### 🌱 What I want to learn in 2022...
 
-- React
-- R
-- NextJS
 - ChakraUI
 - GraphQL
-- MongoDB, PostgreSQL
+- MongoDB
+- NextJS
+- PostgreSQL
+- R
+- React
+- VIM
 
 ### 📫 How to reach me...
 
