@@ -1,17 +1,13 @@
 ### Dominik PAULITSCH
 
-> Creator of Dealous Projects & ZENPAU
+> Programming at ZENPAU
 
 Hi👋, I am a Web Developer, Software Developer and UI/UX Designer who loves to design and program! I currently attend the HTBLA Kaindorf.
 
-### 🌱 What I want to learn in 2022...
+### 🌱 What I want to learn (more) in 2022...
 
-- ChakraUI
-- GraphQL
-- MongoDB
-- NextJS
-- PostgreSQL
-- R
+- Flutter
+- Python
 - React
 - VIM
 
